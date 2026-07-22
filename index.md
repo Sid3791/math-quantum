@@ -10,7 +10,7 @@ Write a research paper detailing the methods used which intersect QIS, Machine l
 
 ## Background:
 ###  Motivation: 
-  Trading algorithms used by quantatives are very powerful, however are limited because of analyzing millions of assets and trillions of possibilities. Machine learning aims to help these algorithms, however by integrating quantum computing we can design circuits analyzing all of these millions of assets in a superposition and speed up the ML algorithms behind the trading algorithms
+  Trading algorithms used by quantatives are very powerful, however are limited because of analyzing millions of assets and trillions of possibilities. Machine learning aims to help these algorithms, however by integrating quantum computing we can design circuits analyzing all of these millions of assets in a superposition and speed up the ML algorithms behind the trading algorithms.
 ###  Video:
   Here is a video explaining the concepts and optimizations better.
   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=pVzXw6APKl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
