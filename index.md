@@ -2,13 +2,21 @@
 layout: single
 author_profile: false
 ---
-Complex number are numbers with *real components* and an *imaginary component*: \\a + bi\\) where a and b are **real numbers** and i is the **iaginary unit**
-An extended applicatin can be found [here](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mathsisfun.com/numbers/complex-numbers.html&ved=2ahUKEwjG3eWop9WVAxUJhSsGHcUOE64QFnoECB0QAQ&usg=AOvVaw0iNxC0uLnEbIUf8I1u8AJ4)
 
-It can be helpful to visualize complex numbers on the complex plane. ![complex_img](https://ds055uzetaobb.cloudfront.net/brioche/uploads/1cBmAHyVZM-diagram.png?width=300)
+# MathQuantum Miniproject!!!
 
-Complex numbers can also be represented in polar form as below:
-[![polar_form](https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A0bc82efbf67a17d08f623f74c1a3c03911079b84404a2a5c486fc408%2BIMAGE_TINY%2BIMAGE_TINY.1)](https://math.libretexts.org/Bookshelves/Precalculus/Precalculus_1e_(OpenStax)/08%3A_Further_Applications_of_Trigonometry/8.05%3A_Polar_Form_of_Complex_Numbers)
+## Project Idea: 
+Write a research paper detailing the methods used which intersect QIS, Machine learning, and Finance. Explain how Quantum computing can be utiilized to generate better portfolio management and asset allocation
 
-To understand:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lFT2hwsCMls?si=KpZM1HVsF6wPEbmT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Background:
+###  Motivation: 
+  Trading algorithms used by quantatives are very powerful, however are limited because of analyzing millions of assets and trillions of possibilities. Machine learning aims to help these algorithms, however by integrating quantum computing we can design circuits analyzing all of these millions of assets in a superposition and speed up the ML algorithms behind the trading algorithms
+###  Video:
+  Here is a video explaining the concepts and optimizations better.
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=pVzXw6APKl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+###  References
+  Here are some references for further viewing:
+  [Paper](https://arxiv.org/pdf/2407.12618)
+  [Paper2](https://journals.asianresassoc.org/index.php/irjmt/article/view/3961/1226)
+  [Paper3](https://arxiv.org/pdf/2607.03218)
+  [Paper4](https://cerc-ngct.ca/wp-content/uploads/2026/03/EAI_INISCOM_ChauPhung.pdf)
