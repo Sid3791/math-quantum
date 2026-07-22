@@ -14,6 +14,7 @@ Write a research paper detailing the methods used which intersect QIS, Machine l
 ###  Video:
   Here is a video explaining the concepts and optimizations better.
   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=pVzXw6APKl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
 ###  References
   Here are some references for further viewing:
   [Paper](https://arxiv.org/pdf/2407.12618)
