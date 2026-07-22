@@ -26,7 +26,16 @@ Write a research paper detailing the methods used which intersect QIS, Machine l
   
 ###  References
   Here are some references for further viewing:
+  
   [Paper](https://arxiv.org/pdf/2407.12618)
+  
   [Paper2](https://journals.asianresassoc.org/index.php/irjmt/article/view/3961/1226)
+  
   [Paper3](https://arxiv.org/pdf/2607.03218)
+  
   [Paper4](https://cerc-ngct.ca/wp-content/uploads/2026/03/EAI_INISCOM_ChauPhung.pdf)
+
+## Tools:
+
+## Goals:
+  
