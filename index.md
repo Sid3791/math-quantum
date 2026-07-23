@@ -3,8 +3,6 @@ layout: single
 author_profile: false
 ---
 
-# MathQuantum Miniproject!!!
-
 ## Project Idea: 
 Write a research paper detailing the methods used which intersect QIS, Machine learning, and Finance. Explain how Quantum computing can be utiilized to generate better portfolio management and asset allocation
 
