@@ -20,7 +20,7 @@ Trading algorithms used by quants are very powerful, however are limited because
 
 ---
 
-## Video
+### Video
 
 Here is a video explaining the concepts and optimizations better:
 
@@ -37,7 +37,7 @@ Here is a video explaining the concepts and optimizations better:
 
 ---
 
-## References
+### References
 
 Here are some references for further viewing:
 
