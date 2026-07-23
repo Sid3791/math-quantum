@@ -36,6 +36,12 @@ Write a research paper detailing the methods used which intersect QIS, Machine l
   [Paper4](https://cerc-ngct.ca/wp-content/uploads/2026/03/EAI_INISCOM_ChauPhung.pdf)
 
 ## Tools:
-
+  QAQO
+  Black Scholes Model PDEs applications
+  Monte Carlo Simulation speedup
+  Deeper connections between data
+  Incorporating Non-Guassian connections in models (Politics, Disasters, etc.)
 ## Goals:
-  
+  1. Creating Powerful quantatative models
+  2. Exploring further into Quantum computing and mechanics in general
+  3. Solving one of the seven Millenium Prize Problems
