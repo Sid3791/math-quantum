@@ -1,17 +1,29 @@
 ---
 layout: single
-author_profile: false
+title: "Mathquantum Miniproject"
+toc: true
+toc_label: "Contents"
+toc_sticky: true
 ---
-Mathquantum Miniproject
 
-## Project Idea: 
-Write a research paper detailing the methods used which intersect QIS, Machine learning, and Finance. Explain how Quantum computing can be utiilized to generate better portfolio management and asset allocation
+## Project Idea
 
-## Background:
-###  Motivation: 
-  Trading algorithms used by quantatives are very powerful, however are limited because of analyzing millions of assets and trillions of possibilities. Machine learning aims to help these algorithms, however by integrating quantum computing we can design circuits analyzing all of these millions of assets in a superposition and speed up the ML algorithms behind the trading algorithms.
-###  Video:
-  Here is a video explaining the concepts and optimizations better.
+Write a research paper detailing the methods used which intersect QIS, Machine learning, and Finance. Explain how Quantum computing can be utilized to generate better portfolio management and asset allocation.
+
+---
+
+## Background
+
+### Motivation
+
+Trading algorithms used by quants are very powerful, however are limited because of analyzing millions of assets and trillions of possibilities. Machine learning aims to help these algorithms, however by integrating quantum computing we can design circuits analyzing all of these millions of assets in a superposition and speed up the ML algorithms behind the trading algorithms.
+
+---
+
+## Video
+
+Here is a video explaining the concepts and optimizations better:
+
 <iframe 
   width="560" 
   height="315" 
@@ -22,25 +34,32 @@ Write a research paper detailing the methods used which intersect QIS, Machine l
   referrerpolicy="strict-origin-when-cross-origin" 
   allowfullscreen>
 </iframe>
-  
-###  References
-  Here are some references for further viewing:
-  
-  [A Brief Review of Quantum Machine Learning for Financial Services](https://arxiv.org/pdf/2407.12618)
-  
-  [Advancing Stock Price Prediction and Algorithmic Trading: Quantum Machine Learning for High-Frequency Optimization](https://journals.asianresassoc.org/index.php/irjmt/article/view/3961/1226)
-  
-  [Quantum Annealing for Dynamic Portfolio Optimization under Realistic Transaction Costs](https://arxiv.org/pdf/2607.03218)
-  
-  [Overview and Demonstrative Use Case of Quantum Machine Learning in Finance](https://cerc-ngct.ca/wp-content/uploads/2026/03/EAI_INISCOM_ChauPhung.pdf)
 
-## Tools:
-  QAQO
-  Black Scholes Model PDEs applications
-  Monte Carlo Simulation speedup
-  Deeper connections between data
-  Incorporating Non-Guassian connections in models (Politics, Disasters, etc.)
-## Goals:
-  1. Creating Powerful quantatative models
-  2. Exploring further into Quantum computing and mechanics in general
-  3. Solving one of the seven Millenium Prize Problems
+---
+
+## References
+
+Here are some references for further viewing:
+
+* [A Brief Review of Quantum Machine Learning for Financial Services](https://arxiv.org/pdf/2407.12618)
+* [Advancing Stock Price Prediction and Algorithmic Trading: Quantum Machine Learning for High-Frequency Optimization](https://journals.asianresassoc.org/index.php/irjmt/article/view/3961/1226)
+* [Quantum Annealing for Dynamic Portfolio Optimization under Realistic Transaction Costs](https://arxiv.org/pdf/2607.03218)
+* [Overview and Demonstrative Use Case of Quantum Machine Learning in Finance](https://cerc-ngct.ca/wp-content/uploads/2026/03/EAI_INISCOM_ChauPhung.pdf)
+
+---
+
+## Tools
+
+* QAOA
+* Black Scholes Model PDEs applications
+* Monte Carlo Simulation speedup
+* Deeper connections between data
+* Incorporating Non-Gaussian connections in models (Politics, Disasters, etc.)
+
+---
+
+## Goals
+
+1. Creating Powerful quantitative models
+2. Exploring further into Quantum computing and mechanics in general
+3. Solving one of the seven Millennium Prize Problems
