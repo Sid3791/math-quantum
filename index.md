@@ -27,13 +27,13 @@ Write a research paper detailing the methods used which intersect QIS, Machine l
 ###  References
   Here are some references for further viewing:
   
-  [Paper](https://arxiv.org/pdf/2407.12618)
+  [A Brief Review of Quantum Machine Learning for Financial Services](https://arxiv.org/pdf/2407.12618)
   
-  [Paper2](https://journals.asianresassoc.org/index.php/irjmt/article/view/3961/1226)
+  [Advancing Stock Price Prediction and Algorithmic Trading: Quantum Machine Learning for High-Frequency Optimization](https://journals.asianresassoc.org/index.php/irjmt/article/view/3961/1226)
   
-  [Paper3](https://arxiv.org/pdf/2607.03218)
+  [Quantum Annealing for Dynamic Portfolio Optimization under Realistic Transaction Costs](https://arxiv.org/pdf/2607.03218)
   
-  [Paper4](https://cerc-ngct.ca/wp-content/uploads/2026/03/EAI_INISCOM_ChauPhung.pdf)
+  [Overview and Demonstrative Use Case of Quantum Machine Learning in Finance](https://cerc-ngct.ca/wp-content/uploads/2026/03/EAI_INISCOM_ChauPhung.pdf)
 
 ## Tools:
   QAQO
