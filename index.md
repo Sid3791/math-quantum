@@ -51,11 +51,11 @@ Here are some references for further viewing:
 
 ## Tools
 * **Mathematics:** Linear Algebra, Stochastic Calculus, Probability, Optimization
-** QAOA
-** Black Scholes Model PDEs applications
-** Monte Carlo Simulation speedup
-** Deeper connections between data
-** Incorporating Non-Gaussian connections in models (Politics, Disasters, etc.)
+  - QAOA
+  - Black Scholes Model PDEs applications
+  - Monte Carlo Simulation speedup
+  - Deeper connections between data
+  - Incorporating Non-Gaussian connections in models (Politics, Disasters, etc.)
 * Google Scholar, Web search, arXiv, Github
 
 ---
