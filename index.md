@@ -1,6 +1,5 @@
 ---
 layout: single
-title: ""
 toc: true
 toc_label: "Contents"
 toc_sticky: true
