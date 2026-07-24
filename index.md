@@ -9,7 +9,7 @@ toc_sticky: true
 
 ## Project Idea
 
-Write a research paper detailing the methods used which intersect QIS, Machine learning, and Finance. Explain how Quantum computing can be utilized to generate better portfolio management and asset allocation.
+Write a research paper detailing the methods used which intersect QIS, Machine learning, and Finance. Explain how Quantum computing can be utilized to investigate improvements to portfolio optimization and asset allocation.
 
 ---
 
@@ -17,7 +17,7 @@ Write a research paper detailing the methods used which intersect QIS, Machine l
 
 ### Motivation
 
-Trading algorithms used by quants are very powerful, however are limited because of analyzing millions of assets and trillions of possibilities. Machine learning aims to help these algorithms, however by integrating quantum computing we can design circuits analyzing all of these millions of assets in a superposition and speed up the ML algorithms behind the trading algorithms.
+Modern algorithms are powerful using machine learning and optimization. However, portfolio allocation becomes harder and harder once assets and constraints increase. Quantum computing may provide algorithms that accelerate optimizations and exploit interference or other quantum techniques to improve speed and power.
 
 ---
 
@@ -51,12 +51,7 @@ Here are some references for further viewing:
 
 ## Tools
 * **Mathematics:** Linear Algebra, Stochastic Calculus, Probability, Optimization
-  - QAOA
-  - Black Scholes Model PDEs applications
-  - Monte Carlo Simulation speedup
-  - Deeper connections between data
-  - Incorporating Non-Gaussian connections in models (Politics, Disasters, etc.)
-* Google Scholar, Web search, arXiv, Github
+* Google Scholar, Web search, arXiv, Github, Qiskit
 
 ---
 
