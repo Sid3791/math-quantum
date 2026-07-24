@@ -58,6 +58,6 @@ Here are some references for further viewing:
 
 ## Goals
 
-1. Research further into improving current quantatative models 
+1. Research further into improving current quantatative models by utilizing quantum theory
 2. Explore breakthroughs in Quantum computing and quantum mechanics in general
 3. Solve one of the seven Millennium Prize Problems
