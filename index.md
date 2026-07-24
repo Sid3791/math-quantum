@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Mathquantum Miniproject"
+title: ""
 toc: true
 toc_label: "Contents"
 toc_sticky: true
@@ -49,17 +49,18 @@ Here are some references for further viewing:
 ---
 
 ## Tools
-
-* QAOA
-* Black Scholes Model PDEs applications
-* Monte Carlo Simulation speedup
-* Deeper connections between data
-* Incorporating Non-Gaussian connections in models (Politics, Disasters, etc.)
+* **Mathematics:** Linear Algebra, Stochastic Calculus, Probability, Optimization
+** QAOA
+** Black Scholes Model PDEs applications
+** Monte Carlo Simulation speedup
+** Deeper connections between data
+** Incorporating Non-Gaussian connections in models (Politics, Disasters, etc.)
+* Google Scholar, Web search, arXiv, Github
 
 ---
 
 ## Goals
 
-1. Creating Powerful quantitative models
-2. Exploring further into Quantum computing and mechanics in general
-3. Solving one of the seven Millennium Prize Problems
+1. Create powerful quantitative models
+2. Explore further into Quantum computing and mechanics in general
+3. Solve one of the seven Millennium Prize Problems
