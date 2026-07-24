@@ -4,7 +4,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* Center top bar header container */
+/* Center and adjust top bar header position */
 .masthead__inner-wrap {
   text-align: center !important;
   padding-left: 0 !important;
@@ -20,16 +20,16 @@
   margin-right: auto !important;
 }
 
-/* Ensure the title itself has no lingering left-alignment constraints */
+/* Shift title to the right for optical alignment */
 .site-title {
   float: none !important;
   font-size: 2rem !important;
   display: inline-block !important;
   margin: 0 auto !important;
-  padding: 0 !important;
+  padding-left: 20px !important; /* Adjust this value up/down to nudge it right */
 }
 
-/* Hide navigation menu toggle button and list if present */
+/* Hide navigation menu toggle button and extra link elements */
 .greedy-nav button,
 .greedy-nav .visible-links,
 .greedy-nav .hidden-links {
