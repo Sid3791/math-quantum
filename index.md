@@ -51,7 +51,8 @@ Here are some references for further viewing:
 
 ## Tools
 * **Mathematics:** Linear Algebra, Stochastic Calculus, Probability, Optimization
-* Google Scholar, Web search, arXiv, Github, Qiskit
+* **Quantum Computing:** Quantum Annealing, QAQO (Quantum optimization), Qiskit
+* Google Scholar, Web search, arXiv, Github
 
 ---
 
